@@ -1,0 +1,2 @@
+variable "child_rg" {
+}
